@@ -23,7 +23,7 @@ Welcome to my GitHub Profile. I started studying programming about 8 years ago, 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2><a id="user-content-my-favorite-tools-and-technologies-️" class="anchor" aria-label="Permalink: My favorite Languages and Technologies ⚙️" href="#my-favorite-languages-and-technologies-️"></a></div>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,aws,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=8)" />
+        <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=8" />
     </a>
 </p>
 
