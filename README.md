@@ -15,9 +15,9 @@ Welcome to my GitHub Profile. I started studying programming about 8 years ago, 
     </a>
     <img src="https://komarev.com/ghpvc/?username=ricky0219&style=for-the-badge" style="max-width: 100%">    
     <br><br>
+</div>
     <img src="assets/img/line.gif">
 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2><a id="user-content-my-favorite-tools-and-technologies-️" class="anchor" aria-label="Permalink: My favorite Languages and Technologies ⚙️" href="#my-favorite-languages-and-technologies-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
-<blockquote>
-</div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2><a id="user-content-my-favorite-tools-and-technologies-️" class="anchor" aria-label="Permalink: My favorite Languages and Technologies ⚙️" href="#my-favorite-languages-and-technologies-️"></a></div>
+
