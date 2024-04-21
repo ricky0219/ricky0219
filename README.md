@@ -23,7 +23,7 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
     </a>
 </p>
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Education</h2>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Education📚</h2>
 <ul dir="auto">
     <li>🏫<strong>University of Padua</strong>:
         <ul dir="auto">
@@ -44,8 +44,15 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
         </ul>
     </li>
 </ul>
+</div>
+<br>
+<br>
 
-
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">GitHub Stats📊</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=ricky0219&show_icons=true&theme=transparent">
+</div>
+<br>
+<br>
 <h2>Music Lover🎶</h2>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=riccardo.castiello&show_border=1&limit=7">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=riccardo.castiello" alt="Data Card for Spotify">
