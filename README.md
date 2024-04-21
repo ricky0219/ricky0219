@@ -22,7 +22,8 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
         <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=5" />
     </a>
 </p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Work &amp; Education 
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Education</h2>
 <ul dir="auto">
 <li>🏫<strong>University of Padua</strong>:
 <ul dir="auto">
