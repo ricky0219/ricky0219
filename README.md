@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="assets/img/intro.gif">
+<img src="assets/img/intro.gif" style="max-width:100%">
 Welcome to my GitHub Profile. I started studying programming about 8 years ago, and currently, I am a computer engineering student at the University of Padua. I enjoy working mainly in web development and mobile applications.
 <br><br><img src="assets/img/line.gif">
 <div align="justify" dir="auto">
