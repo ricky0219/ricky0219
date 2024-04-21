@@ -13,8 +13,7 @@ Welcome to my GitHub Profile. I started studying programming about 8 years ago, 
     <a href="https://discordapp.com/users/casti69" rel="nofollow">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;">
     </a>
-    <img src="![](https://komarev.com/ghpvc/?username=ricky0219&style=for-the-badge)">
-    
+    <img src="![](https://komarev.com/ghpvc/?username=ricky0219&style=for-the-badge)" style="max-width: 100%">    
     <br><br>
     <img src="assets/img/line.gif">
 
