@@ -1,7 +1,5 @@
 <img src="assets/img/intro.jpg" style="width:1280px; display: flex; justify-content: center; align-items: center;">
 Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying programming about 8 years ago, and currently, I am a computer engineering student at the University of Padua. I enjoy working mainly in web development and mobile applications.
-<br><br>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Loving+Programming+%3C3"></h2>
 <br><br><img src="assets/img/line.gif">
 <div align="center" dir="auto" style="justify-content: space-between">
     <a href="https://www.instagram.com/riccardo.castiello/" rel="nofollow">
@@ -25,7 +23,7 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
         <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=5" />
     </a>
 </p>
-<h2 align="center">Music Lover</h2>
+<h2>Music Lover</h2>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=riccardo.castiello&show_border=1&limit=7">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=riccardo.castiello" alt="Data Card for Spotify">
 </a>
