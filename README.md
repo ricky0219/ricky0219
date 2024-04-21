@@ -16,14 +16,35 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
 </div>
     <img src="assets/img/line.gif">
 
-
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2><a id="user-content-my-favorite-tools-and-technologies-️" class="anchor" aria-label="Permalink: My favorite Languages and Technologies ⚙️" href="#my-favorite-languages-and-technologies-️"></a></div>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=5" />
     </a>
 </p>
-<h2>Music Lover</h2>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Work &amp; Education 
+<ul dir="auto">
+<li>🏫<strong>University of Padua</strong>:
+<ul dir="auto">
+<li><strong>Completing Bachelor of Engineering Degree in Computer Engineering</strong>
+<ul dir="auto">
+<li>2021  - (Present)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>🎒<strong>ITIS Volterra (VE)</strong>:
+<ul dir="auto">
+<li><strong>High School - IT</strong>
+<ul dir="auto">
+<li>2016 – 2021</li>
+</ul>
+</li>
+</ul>
+</li>
+
+
+<h2>Music Lover🎶</h2>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=riccardo.castiello&show_border=1&limit=7">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=riccardo.castiello" alt="Data Card for Spotify">
 </a>
