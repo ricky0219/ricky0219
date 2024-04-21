@@ -16,7 +16,8 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
 </div>
     <img src="assets/img/line.gif">
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2><a id="user-content-my-favorite-tools-and-technologies-️" class="anchor" aria-label="Permalink: My favorite Languages and Technologies ⚙️" href="#my-favorite-languages-and-technologies-️"></a></div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">My favorite Languages and Technologies ⚙️</h2></div>
+<br>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=aws,androidstudio,apple,autocad,cpp,html,css,js,discord,dart,flutter,firebase,git,github,java,latex,notion,php,vscode,mysql&perline=5" />
@@ -46,14 +47,12 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
 </ul>
 </div>
 <br>
-<br>
-
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">GitHub Stats📊</h2>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ricky0219&show_icons=true&theme=dark">
 </div>
 </div>
-<br>
 <br>
 <h2>Music Lover🎶</h2>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=riccardo.castiello&show_border=1&limit=7">
