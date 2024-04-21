@@ -25,24 +25,25 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Education</h2>
 <ul dir="auto">
-<li>🏫<strong>University of Padua</strong>:
-<ul dir="auto">
-<li><strong>Completing Bachelor of Engineering Degree in Computer Engineering</strong>
-<ul dir="auto">
-<li>2021  - (Present)</li>
+    <li>🏫<strong>University of Padua</strong>:
+        <ul dir="auto">
+            <li><strong>Completing Bachelor of Engineering Degree in Computer Engineering</strong>
+                <ul dir="auto">
+                    <li>2021  - (Present)</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>🎒<strong>ITIS Volterra (VE)</strong>:
+        <ul dir="auto">
+            <li><strong>High School - IT</strong>
+                <ul dir="auto">
+                    <li>2016 – 2021</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
 </ul>
-</li>
-</ul>
-</li>
-<li>🎒<strong>ITIS Volterra (VE)</strong>:
-<ul dir="auto">
-<li><strong>High School - IT</strong>
-<ul dir="auto">
-<li>2016 – 2021</li>
-</ul>
-</li>
-</ul>
-</li>
 
 
 <h2>Music Lover🎶</h2>
