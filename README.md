@@ -49,7 +49,7 @@ Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying pr
 <br>
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">GitHub Stats📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ricky0219&show_icons=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api?username=ricky0219&show_icons=true&theme=dark">
 </div>
 <br>
 <br>
