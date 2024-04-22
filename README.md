@@ -1,5 +1,5 @@
 <img src="assets/img/intro.jpg" style="width:1280px; display: flex; justify-content: center; align-items: center;">
-<p style="font-size: 24px">Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying programming about 8 years ago, and currently, I am a computer engineering student at the University of Padua. I enjoy working mainly in web development and mobile applications.</p>
+<h4>Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying programming about 8 years ago, and currently, I am a computer engineering student at the University of Padua. I enjoy working mainly in web development and mobile applications.</h4>
 <br><br><img src="assets/img/line.gif">
 <div align="center" dir="auto" style="justify-content: space-between">
     <a href="https://www.instagram.com/riccardo.castiello/" rel="nofollow">
