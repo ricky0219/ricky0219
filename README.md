@@ -1,6 +1,6 @@
 <img src="assets/img/intro.jpg" style="width:1280px; display: flex; justify-content: center; align-items: center;">
 <h3>Welcome to my GitHub Profile. I'm an Italian guy🇮🇹 who started studying programming about 8 years ago, and currently, I am a computer engineering student at the University of Padua. I enjoy working mainly in web development and mobile applications.</h3>
-<br><br><img src="assets/img/line.gif">
+<br><img src="assets/img/line.gif">
 <div align="center" dir="auto" style="justify-content: space-between">
     <a href="https://www.instagram.com/riccardo.castiello/" rel="nofollow">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
